@@ -1,0 +1,12 @@
+{
+  "name": "love-letter-website",
+  "version": "2.0.0",
+  "description": "A personalized romantic love letter website for Wifey, from Preet",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

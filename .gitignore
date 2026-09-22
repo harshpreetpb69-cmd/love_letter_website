@@ -1,0 +1,8 @@
+node_modules/
+.env
+data/notes.json
+npm-debug.log*
+.DS_Store
+*.log
+extract-images.js
+extract-images.ps1
